@@ -132,17 +132,6 @@
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
     },
-    "core": {
-        "name": "CORE",
-        "fees": true,
-        "dexs": true,
-        "derivatives": true,
-        "aggregators": true,
-        "bridge-aggregators": true,
-        "chainAssets": true,
-        "gecko_id": "coredaoorg",
-        "tokenSymbol": "CORE"
-    },
     "polygon": {
         "name": "Polygon",
         "activeUsers": true,
@@ -155,6 +144,17 @@
         "chainAssets": true,
         "gecko_id": "polygon-ecosystem-token",
         "tokenSymbol": "POL"
+    },
+    "core": {
+        "name": "CORE",
+        "fees": true,
+        "dexs": true,
+        "derivatives": true,
+        "aggregators": true,
+        "bridge-aggregators": true,
+        "chainAssets": true,
+        "gecko_id": "coredaoorg",
+        "tokenSymbol": "CORE"
     },
     "pulsechain": {
         "name": "PulseChain",
@@ -422,6 +422,12 @@
         "gecko_id": "mode",
         "tokenSymbol": "MODE"
     },
+    "multiversx": {
+        "name": "MultiversX",
+        "fees": true,
+        "dexs": true,
+        "derivatives": true
+    },
     "celo": {
         "name": "Celo",
         "fees": true,
@@ -431,12 +437,6 @@
         "inflows": true,
         "gecko_id": "celo",
         "tokenSymbol": "CELO"
-    },
-    "multiversx": {
-        "name": "MultiversX",
-        "fees": true,
-        "dexs": true,
-        "derivatives": true
     },
     "mixin": {
         "name": "Mixin",
@@ -1004,15 +1004,15 @@
         "name": "Swellchain",
         "chainAssets": true
     },
-    "oraichain": {
-        "name": "Oraichain",
-        "dexs": true,
-        "aggregators": true
-    },
     "agoric": {
         "name": "Agoric",
         "gecko_id": "agoric",
         "tokenSymbol": "BLD"
+    },
+    "oraichain": {
+        "name": "Oraichain",
+        "dexs": true,
+        "aggregators": true
     },
     "godwokenv1": {
         "name": "GodwokenV1",
@@ -1063,10 +1063,6 @@
         "gecko_id": "acala",
         "tokenSymbol": "ACA"
     },
-    "sonic": {
-        "name": "Sonic",
-        "aggregators": true
-    },
     "lisk": {
         "name": "Lisk",
         "fees": true,
@@ -1074,6 +1070,10 @@
         "chainAssets": true,
         "gecko_id": "lisk",
         "tokenSymbol": "LSK"
+    },
+    "sonic": {
+        "name": "Sonic",
+        "aggregators": true
     },
     "interlay": {
         "name": "Interlay",
@@ -1095,16 +1095,16 @@
         "gecko_id": "fx-coin",
         "tokenSymbol": "FX"
     },
-    "ux": {
-        "name": "UX",
-        "fees": true
-    },
     "re.al": {
         "name": "re.al",
         "fees": true,
         "dexs": true,
         "gecko_id": "re-al",
         "tokenSymbol": "RWA"
+    },
+    "ux": {
+        "name": "UX",
+        "fees": true
     },
     "hydra": {
         "name": "Hydra",
@@ -1152,11 +1152,11 @@
         "gecko_id": "thunder-token",
         "tokenSymbol": "TT"
     },
-    "archway": {
-        "name": "Archway",
+    "oktchain": {
+        "name": "OKTChain",
+        "dexs": true,
         "aggregators": true,
-        "gecko_id": "archway",
-        "tokenSymbol": "ARCH"
+        "bridge-aggregators": true
     },
     "meter": {
         "name": "Meter",
@@ -1165,30 +1165,22 @@
         "gecko_id": "meter",
         "tokenSymbol": "MTRG"
     },
-    "oktchain": {
-        "name": "OKTChain",
-        "dexs": true,
-        "aggregators": true,
-        "bridge-aggregators": true
-    },
     "zilliqa": {
         "name": "Zilliqa",
         "dexs": true,
         "gecko_id": "zilliqa",
         "tokenSymbol": "ZIL"
     },
-    "world-chain": {
-        "name": "World Chain",
-        "fees": true,
-        "aggregators": true,
-        "bridge-aggregators": true,
-        "gecko_id": "worldcoin-wld",
-        "tokenSymbol": "WLD"
-    },
     "theta": {
         "name": "Theta",
         "gecko_id": "theta-token",
         "tokenSymbol": "THETA"
+    },
+    "archway": {
+        "name": "Archway",
+        "aggregators": true,
+        "gecko_id": "archway",
+        "tokenSymbol": "ARCH"
     },
     "airdao": {
         "name": "AirDAO",
@@ -1209,6 +1201,14 @@
         "chainAssets": true,
         "gecko_id": "boba-network",
         "tokenSymbol": "BOBA"
+    },
+    "world-chain": {
+        "name": "World Chain",
+        "fees": true,
+        "aggregators": true,
+        "bridge-aggregators": true,
+        "gecko_id": "worldcoin-wld",
+        "tokenSymbol": "WLD"
     },
     "kadena": {
         "name": "Kadena",
@@ -1274,15 +1274,15 @@
         "gecko_id": "xpla",
         "tokenSymbol": "XPLA"
     },
-    "ink": {
-        "name": "Ink",
-        "chainAssets": true
-    },
     "haqq": {
         "name": "HAQQ",
         "fees": true,
         "gecko_id": "islamic-coin",
         "tokenSymbol": "ISLM"
+    },
+    "ink": {
+        "name": "Ink",
+        "chainAssets": true
     },
     "milkomeda-c1": {
         "name": "Milkomeda C1"
@@ -1415,8 +1415,11 @@
         "gecko_id": "coinex-token",
         "tokenSymbol": "CET"
     },
-    "skale-europa": {
-        "name": "SKALE Europa"
+    "obyte": {
+        "name": "Obyte",
+        "dexs": true,
+        "gecko_id": "byteball",
+        "tokenSymbol": "GBYTE"
     },
     "taraxa": {
         "name": "Taraxa",
@@ -1425,11 +1428,8 @@
         "gecko_id": "taraxa",
         "tokenSymbol": "TARA"
     },
-    "obyte": {
-        "name": "Obyte",
-        "dexs": true,
-        "gecko_id": "byteball",
-        "tokenSymbol": "GBYTE"
+    "skale-europa": {
+        "name": "SKALE Europa"
     },
     "ultron": {
         "name": "Ultron",
@@ -1535,14 +1535,14 @@
         "gecko_id": "karura",
         "tokenSymbol": "KAR"
     },
-    "boba_bnb": {
-        "name": "Boba_Bnb",
-        "aggregators": true
-    },
     "kroma": {
         "name": "Kroma",
         "gecko_id": "kroma",
         "tokenSymbol": "KRO"
+    },
+    "boba_bnb": {
+        "name": "Boba_Bnb",
+        "aggregators": true
     },
     "enuls": {
         "name": "ENULS",
@@ -1628,15 +1628,15 @@
         "gecko_id": "kardiachain",
         "tokenSymbol": "KAI"
     },
-    "ethereumpow": {
-        "name": "EthereumPoW",
-        "gecko_id": "ethereum-pow-iou",
-        "tokenSymbol": "ETHW"
-    },
     "zora": {
         "name": "Zora",
         "fees": true,
         "dexs": true
+    },
+    "ethereumpow": {
+        "name": "EthereumPoW",
+        "gecko_id": "ethereum-pow-iou",
+        "tokenSymbol": "ETHW"
     },
     "shape": {
         "name": "Shape"
@@ -1714,15 +1714,15 @@
         "gecko_id": "electroneum",
         "tokenSymbol": "ETN"
     },
-    "shiden": {
-        "name": "Shiden",
-        "gecko_id": "shiden",
-        "tokenSymbol": "SDN"
-    },
     "aura-network": {
         "name": "Aura Network",
         "gecko_id": "aura-network",
         "tokenSymbol": "AURA"
+    },
+    "shiden": {
+        "name": "Shiden",
+        "gecko_id": "shiden",
+        "tokenSymbol": "SDN"
     },
     "polkadex": {
         "name": "Polkadex",
