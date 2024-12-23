@@ -30493,7 +30493,8 @@
     "parent#avalon-labs": {
         "name": "avalon-labs",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "raises": true
     },
     "parent#avely-finance": {
         "name": "avely-finance",
@@ -31588,7 +31589,8 @@
         "name": "inception",
         "yields": true,
         "tvl": true,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "parent#increment-finance": {
         "name": "increment-finance",
