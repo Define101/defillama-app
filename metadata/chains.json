@@ -1073,6 +1073,9 @@
         "gecko_id": "kintsugi",
         "tokenSymbol": "KINT"
     },
+    "kopi": {
+        "name": "Kopi"
+    },
     "kroma": {
         "name": "Kroma",
         "gecko_id": "kroma",
@@ -2014,6 +2017,7 @@
     },
     "viction": {
         "name": "Viction",
+        "fees": true,
         "dexs": true
     },
     "vinuchain": {

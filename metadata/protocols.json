@@ -16076,9 +16076,9 @@
         "yields": false
     },
     "2974": {
-        "name": "extra-finance",
+        "name": "extra-finance-leverage-farming",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -28830,6 +28830,7 @@
         "name": "rabbit-swap",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -30175,6 +30176,16 @@
         "tvl": true,
         "yields": false
     },
+    "5554": {
+        "name": "extra-finance-xlend",
+        "tvl": true,
+        "yields": false
+    },
+    "5555": {
+        "name": "aixcb",
+        "tvl": false,
+        "yields": false
+    },
     "5567": {
         "fees": true,
         "revenue": true
@@ -31248,6 +31259,10 @@
         "emissions": true
     },
     "parent#extra-finance": {
+        "name": "extra-finance",
+        "yields": true,
+        "tvl": true,
+        "fees": true,
         "revenue": true
     },
     "parent#factor": {
