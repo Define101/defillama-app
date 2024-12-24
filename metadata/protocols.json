@@ -13880,7 +13880,7 @@
     "2583": {
         "name": "nerveswap",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "2584": {
         "name": "velocimeter-v1",
@@ -24417,6 +24417,7 @@
         "name": "hyperliquid-spot",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -26430,7 +26431,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -28823,6 +28824,7 @@
         "tvl": true,
         "yields": false,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "5298": {
@@ -30163,7 +30165,9 @@
     "5551": {
         "name": "zivoe",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5552": {
         "name": "cronos-zkevm-bridge",
@@ -31565,6 +31569,7 @@
         "name": "hyperliquid",
         "yields": false,
         "tvl": true,
+        "fees": true,
         "revenue": true,
         "dexs": true,
         "perps": true
