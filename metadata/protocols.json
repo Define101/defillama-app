@@ -24417,6 +24417,7 @@
         "name": "hyperliquid-spot",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "4483": {
@@ -26429,7 +26430,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -28821,7 +28822,8 @@
         "name": "lsp.finance",
         "tvl": true,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "revenue": true
     },
     "5298": {
         "name": "rabbit-swap",
@@ -30161,6 +30163,11 @@
     "5551": {
         "name": "zivoe",
         "tvl": false,
+        "yields": false
+    },
+    "5552": {
+        "name": "cronos-zkevm-bridge",
+        "tvl": true,
         "yields": false
     },
     "5567": {
@@ -31558,6 +31565,7 @@
         "name": "hyperliquid",
         "yields": false,
         "tvl": true,
+        "revenue": true,
         "dexs": true,
         "perps": true
     },
