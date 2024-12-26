@@ -16195,7 +16195,7 @@
     "2974": {
         "name": "extra-finance-leverage-farming",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -31393,7 +31393,7 @@
     },
     "parent#extra-finance": {
         "name": "extra-finance",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "fees": true,
         "revenue": true
