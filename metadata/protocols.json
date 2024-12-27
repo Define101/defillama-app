@@ -3397,7 +3397,6 @@
         "name": "beets-dex",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -18311,8 +18310,7 @@
     "3362": {
         "name": "orchai-lst",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3363": {
         "name": "halotrade-cosmos",
@@ -22494,8 +22492,7 @@
     "4126": {
         "name": "beets-lst",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4127": {
         "name": "restake-finance",
@@ -23598,8 +23595,7 @@
     "4328": {
         "name": "orchai-money-market",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4329": {
         "name": "staq",
@@ -24924,7 +24920,6 @@
         "name": "rivus-dao",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "4575": {
@@ -30675,7 +30670,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32432,8 +32426,7 @@
     "parent#orchai": {
         "name": "orchai",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#orderly-network": {
         "name": "orderly-network",
