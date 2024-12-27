@@ -1078,7 +1078,6 @@
         "name": "honeyswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -4740,7 +4739,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
