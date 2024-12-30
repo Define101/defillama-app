@@ -1136,6 +1136,7 @@
         "activeUsers": true,
         "fees": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "gecko_id": "litecoin",
         "tokenSymbol": "LTC"
     },
@@ -1329,6 +1330,7 @@
         "name": "Near",
         "fees": true,
         "dexs": true,
+        "bridge-aggregators": true,
         "inflows": true,
         "gecko_id": "near",
         "tokenSymbol": "NEAR"
@@ -1881,6 +1883,7 @@
         "name": "Taraxa",
         "fees": true,
         "dexs": true,
+        "bridge-aggregators": true,
         "gecko_id": "taraxa",
         "tokenSymbol": "TARA"
     },
