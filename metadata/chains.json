@@ -329,6 +329,7 @@
     "bsquared": {
         "name": "BSquared",
         "fees": true,
+        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
@@ -1161,6 +1162,7 @@
         "name": "Manta",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "chainAssets": true,
@@ -1874,6 +1876,7 @@
         "name": "Taiko",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
