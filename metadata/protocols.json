@@ -16794,6 +16794,9 @@
         "treasury": true
     },
     "3083": {
+        "name": "penpie",
+        "tvl": true,
+        "yields": false,
         "liquidity": true,
         "hacks": true,
         "fees": true,
@@ -16839,7 +16842,11 @@
         "dexs": true
     },
     "3091": {
-        "liquidity": true
+        "name": "equilibria",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true,
+        "emissions": true
     },
     "3092": {
         "name": "beamswap-v3",
