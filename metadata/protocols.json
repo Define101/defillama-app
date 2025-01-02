@@ -2761,6 +2761,7 @@
         "name": "soulswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "545": {
@@ -15382,7 +15383,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15406,7 +15407,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -15476,7 +15477,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -30251,14 +30252,16 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5571": {
         "name": "satoshi-perps",
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "perps": true
     },
     "5572": {
         "name": "run-money",
@@ -30529,7 +30532,8 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "activeUsers": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
