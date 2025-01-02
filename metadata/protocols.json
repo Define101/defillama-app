@@ -25048,8 +25048,7 @@
         "name": "vfat.io",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true
+        "fees": true
     },
     "4603": {
         "name": "ceto-swap",
