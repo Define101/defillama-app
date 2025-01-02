@@ -22018,7 +22018,6 @@
         "name": "morpho-blue",
         "tvl": true,
         "yields": true,
-        "hacks": true,
         "fees": true,
         "revenue": true
     },
