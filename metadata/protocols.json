@@ -1985,7 +1985,7 @@
     },
     "416": {
         "name": "westarter",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "417": {
@@ -2763,7 +2763,6 @@
         "name": "soulswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "545": {
@@ -4181,8 +4180,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -9651,7 +9649,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -9917,7 +9916,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -15388,7 +15388,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15412,7 +15412,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -15482,7 +15482,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -15945,7 +15945,8 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2953": {
         "name": "zenith",
@@ -30274,6 +30275,11 @@
     "5574": {
         "name": "duckswap",
         "tvl": true,
+        "yields": false
+    },
+    "5575": {
+        "name": "virtuals-protocol",
+        "tvl": false,
         "yields": false
     },
     "5805": {
