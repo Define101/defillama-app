@@ -9651,7 +9651,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -9917,7 +9918,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -15945,7 +15947,8 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2953": {
         "name": "zenith",
@@ -25049,6 +25052,13 @@
         "revenue": true,
         "dexs": true
     },
+    "4602": {
+        "name": "vfat.io",
+        "tvl": true,
+        "yields": false,
+        "fees": true,
+        "revenue": true
+    },
     "4603": {
         "name": "ceto-swap",
         "tvl": true,
@@ -30863,8 +30873,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#canary": {
         "activeUsers": true
