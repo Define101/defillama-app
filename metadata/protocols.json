@@ -10700,15 +10700,12 @@
         "yields": false
     },
     "2020": {
-        "name": "silo-finance",
+        "name": "silo-v1",
         "tvl": true,
-        "yields": true,
-        "governance": true,
-        "treasury": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "2021": {
         "name": "router-protocol",
@@ -33083,6 +33080,16 @@
         "name": "sienna-network",
         "yields": false,
         "tvl": true
+    },
+    "parent#silo-finance": {
+        "name": "silo-finance",
+        "yields": true,
+        "tvl": true,
+        "governance": true,
+        "treasury": true,
+        "fees": true,
+        "revenue": true,
+        "emissions": true
     },
     "parent#skullswap": {
         "name": "skullswap",
