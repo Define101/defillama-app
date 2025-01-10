@@ -30434,6 +30434,7 @@
         "name": "vinunft",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
