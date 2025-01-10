@@ -22872,7 +22872,6 @@
         "name": "bladeswap-amm",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4207": {
@@ -25758,7 +25757,6 @@
         "name": "bladeswap-cl",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4747": {
@@ -30968,7 +30966,6 @@
         "name": "bladeswap",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#blasterswap": {
