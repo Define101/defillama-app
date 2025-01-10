@@ -515,7 +515,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "183": {
         "name": "wing-finance",
@@ -1472,8 +1473,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "339": {
         "name": "lien",
@@ -4613,7 +4613,8 @@
     "897": {
         "name": "mesher",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "898": {
         "name": "beglobal-finance",
@@ -25447,6 +25448,8 @@
         "name": "eisen-finance",
         "tvl": false,
         "yields": false,
+        "fees": true,
+        "revenue": true,
         "aggregator": true
     },
     "4692": {
@@ -26546,8 +26549,7 @@
     "4892": {
         "name": "sorta-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4893": {
         "name": "international-meme-fund",
@@ -29963,12 +29965,14 @@
     "5521": {
         "name": "sonic-market-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5522": {
         "name": "sonic-market-orderbook",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5524": {
         "name": "datadex",
@@ -30034,7 +30038,9 @@
         "name": "vader-ai",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true,
+        "revenue": true
     },
     "5536": {
         "name": "zivoe",
@@ -30842,7 +30848,8 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#bancor": {
         "name": "bancor",
@@ -33157,7 +33164,8 @@
     "parent#sonic-market": {
         "name": "sonic-market",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "dexs": true
     },
     "parent#sovryn": {
         "name": "sovryn",
