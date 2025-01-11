@@ -1176,7 +1176,8 @@
     "287": {
         "name": "0.exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "289": {
         "name": "yetiswap",
@@ -1209,7 +1210,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -1334,6 +1336,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "318": {
@@ -1381,6 +1384,7 @@
         "name": "unicly",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "325": {
@@ -1476,7 +1480,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "339": {
         "name": "lien",
@@ -1774,6 +1779,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -1842,7 +1848,8 @@
     "396": {
         "name": "polydex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "397": {
         "name": "shibaswap",
@@ -2409,7 +2416,8 @@
     "486": {
         "name": "unfederalreserve",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "487": {
         "name": "sunny",
@@ -2845,6 +2853,7 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -2952,7 +2961,8 @@
     "580": {
         "name": "sashimiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "581": {
         "name": "morpheus-swap",
@@ -3116,7 +3126,8 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "608": {
         "name": "cap",
@@ -3180,7 +3191,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "620": {
         "name": "francium",
@@ -3624,6 +3636,7 @@
         "name": "dinosaur-eggs",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "696": {
@@ -3690,6 +3703,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -3853,7 +3867,8 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "738": {
         "name": "defi-halal",
@@ -3890,7 +3905,8 @@
     "743": {
         "name": "neku",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "744": {
         "name": "tranquil-finance",
@@ -4737,6 +4753,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -5167,7 +5184,8 @@
     "996": {
         "name": "ocp-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "997": {
         "name": "piggy",
@@ -5283,7 +5301,8 @@
         "name": "opendao",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1020": {
         "name": "arkadiko",
@@ -5598,6 +5617,7 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
+        "activeUsers": true,
         "dexs": true
     },
     "1075": {
@@ -6769,6 +6789,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "1297": {
@@ -7055,6 +7076,7 @@
         "name": "wigoswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -7100,7 +7122,8 @@
     "1359": {
         "name": "capitaldex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1360": {
         "name": "meld",
@@ -8593,7 +8616,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "1632": {
         "name": "smbswap-v2",
@@ -9245,6 +9269,7 @@
         "name": "cryptoswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "1751": {
@@ -9659,7 +9684,8 @@
     "1824": {
         "name": "swapsicle-v1",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1825": {
         "name": "nirvana-v1",
@@ -9854,6 +9880,7 @@
         "name": "auraswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "1860": {
@@ -9917,7 +9944,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -11163,7 +11191,8 @@
     "2098": {
         "name": "muffin",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2099": {
         "name": "okcswap",
@@ -11181,12 +11210,14 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -11221,7 +11252,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -11284,6 +11316,7 @@
         "name": "wineryswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2119": {
@@ -11667,7 +11700,8 @@
     "2183": {
         "name": "ape-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2184": {
         "name": "handle.fi-perps",
@@ -11705,7 +11739,8 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2191": {
         "name": "omnidex-lend",
@@ -12478,7 +12513,8 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2340": {
         "name": "optitude-finance",
@@ -12809,7 +12845,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "activeUsers": true
     },
     "2398": {
         "name": "opyn-convexity",
@@ -13958,6 +13995,7 @@
         "name": "alienfi",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2604": {
@@ -14151,7 +14189,8 @@
     "2632": {
         "name": "lendexe-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2633": {
         "name": "anyhedge",
@@ -14227,6 +14266,7 @@
         "tvl": true,
         "yields": false,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14447,6 +14487,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14463,7 +14504,8 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2688": {
         "name": "palma-swap",
@@ -14624,7 +14666,8 @@
     "2716": {
         "name": "kokomo-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2717": {
         "name": "dexioprotocol",
@@ -14864,7 +14907,8 @@
     "2757": {
         "name": "glacier-exchange-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2758": {
         "name": "starfish-liquid-staking",
@@ -14894,12 +14938,14 @@
     "2762": {
         "name": "zkevmswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2763": {
         "name": "dove-swap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2764": {
         "name": "cexdex",
@@ -15101,6 +15147,7 @@
         "name": "native-swap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2804": {
@@ -15190,7 +15237,8 @@
     "2818": {
         "name": "tonpound",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2819": {
         "name": "stfil",
@@ -15350,7 +15398,8 @@
         "name": "solisnek-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2847": {
         "name": "world-mobile-token",
@@ -15446,7 +15495,8 @@
     "2863": {
         "name": "saitaswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2864": {
         "name": "thena-fusion",
@@ -15460,7 +15510,8 @@
     "2865": {
         "name": "moonbase-alpha",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2866": {
         "name": "ghost",
@@ -15647,6 +15698,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -15664,7 +15716,8 @@
     "2900": {
         "name": "wasabi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2901": {
         "name": "swell-liquid-staking",
@@ -15779,7 +15832,8 @@
         "name": "backed",
         "tvl": false,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "activeUsers": true
     },
     "2920": {
         "name": "lsdx-ethx",
@@ -16044,6 +16098,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "emissions": true
@@ -16056,7 +16111,8 @@
     "2970": {
         "name": "beluga-dex",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2971": {
         "name": "astroswap-amm",
@@ -18182,6 +18238,7 @@
         "name": "chronos-v2",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "3342": {
@@ -18417,7 +18474,8 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "3381": {
         "name": "thegoblins",
@@ -18684,6 +18742,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -19334,7 +19393,8 @@
     "3540": {
         "name": "moonbase",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "3541": {
         "name": "sandyswap",
@@ -21626,6 +21686,7 @@
         "name": "squadefi",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -33204,6 +33265,7 @@
         "name": "smbswap",
         "yields": false,
         "tvl": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34064,6 +34126,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
