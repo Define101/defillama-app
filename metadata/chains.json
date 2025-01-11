@@ -821,7 +821,6 @@
         "name": "Gnosis",
         "fees": true,
         "dexs": true,
-        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
@@ -880,6 +879,7 @@
         "name": "Heco",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "huobi-token",
         "tokenSymbol": "HT"
     },
@@ -2166,7 +2166,6 @@
     },
     "zkfair": {
         "name": "Zkfair",
-        "aggregators": true,
         "inflows": true
     },
     "zklink-nova": {
