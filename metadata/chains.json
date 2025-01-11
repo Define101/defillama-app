@@ -503,6 +503,7 @@
     },
     "cube": {
         "name": "Cube",
+        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -879,7 +880,6 @@
         "name": "Heco",
         "fees": true,
         "dexs": true,
-        "aggregators": true,
         "gecko_id": "huobi-token",
         "tokenSymbol": "HT"
     },
