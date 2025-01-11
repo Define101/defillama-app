@@ -8902,7 +8902,6 @@
         "name": "unbanked",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1694": {
@@ -26364,7 +26363,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
