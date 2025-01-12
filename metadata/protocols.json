@@ -7527,8 +7527,7 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1434": {
         "name": "newspace-finance",
@@ -20457,7 +20456,7 @@
     "3740": {
         "name": "kai-finance",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "3741": {
         "name": "torus",
