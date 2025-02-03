@@ -233,6 +233,7 @@
         "name": "Bitcoincash",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
@@ -1381,7 +1382,6 @@
         "name": "Near",
         "fees": true,
         "dexs": true,
-        "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
         "gecko_id": "near",
