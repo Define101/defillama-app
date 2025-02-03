@@ -21382,7 +21382,7 @@
     "3946": {
         "name": "kelp",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "raises": true
     },
     "3947": {
@@ -32524,7 +32524,7 @@
     },
     "parent#kelp-dao": {
         "name": "kerneldao",
-        "yields": false,
+        "yields": true,
         "tvl": true
     },
     "parent#kim-exchange": {
