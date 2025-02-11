@@ -123,6 +123,7 @@
     "artela": {
         "name": "Artela",
         "fees": true,
+        "dexs": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
@@ -2113,6 +2114,9 @@
         "dexs": true,
         "gecko_id": "ultron",
         "tokenSymbol": "ULX"
+    },
+    "unichain": {
+        "name": "Unichain"
     },
     "unit0": {
         "name": "UNIT0",
