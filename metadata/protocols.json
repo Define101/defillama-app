@@ -1451,8 +1451,7 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "336": {
         "name": "sifchain",
@@ -6790,7 +6789,6 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true,
         "activeUsers": true
     },
@@ -11322,7 +11320,6 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "2116": {
@@ -28229,7 +28226,8 @@
     "5174": {
         "name": "four.meme",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "hacks": true
     },
     "5175": {
         "name": "hedgehog-markets",
@@ -31343,7 +31341,10 @@
     "5765": {
         "name": "mondrian-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5766": {
         "name": "bulla-exchange",
