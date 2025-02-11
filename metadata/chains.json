@@ -122,6 +122,7 @@
     },
     "artela": {
         "name": "Artela",
+        "fees": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
@@ -1082,7 +1083,6 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
-        "aggregators": true,
         "bridge-aggregators": true
     },
     "kardia": {

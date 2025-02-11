@@ -957,6 +957,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -30870,7 +30871,8 @@
     "5665": {
         "name": "artexswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5666": {
         "name": "babypie",
