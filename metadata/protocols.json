@@ -6974,7 +6974,8 @@
     "1331": {
         "name": "deeplock",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1332": {
         "name": "dna-dollar",
@@ -11275,8 +11276,7 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2109": {
         "name": "pyeswap",
