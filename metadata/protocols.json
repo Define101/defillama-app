@@ -1207,7 +1207,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -8206,7 +8207,8 @@
         "name": "single-finance",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "1558": {
         "name": "gogocoin",
@@ -15431,7 +15433,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15455,7 +15457,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15525,7 +15527,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -18268,8 +18270,7 @@
     "3346": {
         "name": "cookiebase-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3347": {
         "name": "meridian-finance",
@@ -18523,8 +18524,7 @@
     "3390": {
         "name": "cookiebase-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3391": {
         "name": "liquid-collective",
@@ -32187,8 +32187,7 @@
     "parent#cookiebase": {
         "name": "cookiebase",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#covo-finance": {
         "name": "covo-finance",
