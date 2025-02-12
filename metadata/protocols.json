@@ -203,7 +203,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "liquidity": true,
         "dexs": true
     },
     "134": {
@@ -1406,8 +1405,7 @@
     "327": {
         "name": "youswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "328": {
         "name": "steakbank-finance",
@@ -2627,8 +2625,7 @@
     "520": {
         "name": "youves",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "521": {
         "name": "pizza",
@@ -4791,6 +4788,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -6238,8 +6236,7 @@
     "1184": {
         "name": "cybertime",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1185": {
         "name": "marginswap",
@@ -8125,7 +8122,8 @@
     "1534": {
         "name": "strikex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1535": {
         "name": "cubo",
@@ -17967,6 +17965,7 @@
         "name": "pika-v4",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -24191,8 +24190,7 @@
     "4402": {
         "name": "savmdex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4403": {
         "name": "hatom-tao-bridge",
@@ -33956,6 +33954,7 @@
         "name": "pika-protocol",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
