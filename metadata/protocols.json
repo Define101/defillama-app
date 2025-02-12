@@ -29775,7 +29775,7 @@
     "5458": {
         "name": "pinto",
         "tvl": false,
-        "yields": false,
+        "yields": true,
         "dexs": true
     },
     "5459": {
