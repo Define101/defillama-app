@@ -16714,6 +16714,7 @@
         "name": "zklend",
         "tvl": true,
         "yields": true,
+        "hacks": true,
         "raises": true
     },
     "3080": {
@@ -18298,8 +18299,7 @@
     "3351": {
         "name": "boobs.finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3352": {
         "name": "paladin-dullahan",
@@ -24987,7 +24987,6 @@
         "name": "rivus-dao",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "4575": {
