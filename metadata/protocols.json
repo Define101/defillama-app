@@ -2576,7 +2576,8 @@
     "510": {
         "name": "gaj-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "511": {
         "name": "frost-finance",
@@ -4463,6 +4464,7 @@
         "name": "snowdog",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "860": {
@@ -5154,7 +5156,8 @@
     "982": {
         "name": "vikingsfinance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "984": {
         "name": "galaxygoogle-dao",
@@ -6904,8 +6907,7 @@
     "1309": {
         "name": "gaia-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1310": {
         "name": "zeroshift",
@@ -9279,7 +9281,8 @@
     "1739": {
         "name": "valerian",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1740": {
         "name": "linear-protocol",
@@ -21864,6 +21867,7 @@
         "name": "cleopatra-cl",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23559,6 +23563,7 @@
         "name": "cleopatra-legacy",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32276,6 +32281,7 @@
         "name": "cleopatra-exchange",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
