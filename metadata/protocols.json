@@ -24771,7 +24771,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4512": {
@@ -26623,7 +26623,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -31539,6 +31539,11 @@
     },
     "5783": {
         "name": "takara-lend",
+        "tvl": true,
+        "yields": false
+    },
+    "5784": {
+        "name": "haedal-amm-protocol",
         "tvl": true,
         "yields": false
     },
