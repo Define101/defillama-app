@@ -2141,7 +2141,8 @@
     "445": {
         "name": "cobraswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "446": {
         "name": "miningtycoon",
@@ -2792,8 +2793,7 @@
     "550": {
         "name": "freeriver",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "551": {
         "name": "solarbeam",
@@ -5311,7 +5311,8 @@
         "name": "opendao",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1020": {
         "name": "arkadiko",
@@ -10154,7 +10155,8 @@
     "1902": {
         "name": "starswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1903": {
         "name": "vovo-finance",
@@ -10737,7 +10739,8 @@
     "2010": {
         "name": "starswap-starcoin",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2011": {
         "name": "sudo-inu",
@@ -13588,7 +13591,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -16067,7 +16069,8 @@
     "2966": {
         "name": "starmaker",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2967": {
         "name": "optimism-foundation",
@@ -26995,7 +26998,8 @@
     "4954": {
         "name": "edgex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "4955": {
         "name": "waxfusion",
@@ -31371,6 +31375,16 @@
         "tvl": true,
         "yields": false
     },
+    "5774": {
+        "name": "magma",
+        "tvl": true,
+        "yields": false
+    },
+    "5775": {
+        "name": "infrared-finance",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -31711,7 +31725,8 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "activeUsers": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
@@ -34229,6 +34244,11 @@
     },
     "parent#sonus": {
         "name": "sonus-exchange",
+        "yields": false,
+        "tvl": true
+    },
+    "parent#sosovalue": {
+        "name": "sosovalue",
         "yields": false,
         "tvl": true
     },
