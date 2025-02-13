@@ -3636,7 +3636,6 @@
         "name": "dinosaur-eggs",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "696": {
@@ -3735,7 +3734,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -12661,6 +12660,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -19248,7 +19248,8 @@
     "3517": {
         "name": "ace-of-base",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3518": {
         "name": "messina-liquid-staking",
@@ -20751,7 +20752,7 @@
     },
     "3802": {
         "name": "krunch-defi",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "3803": {
@@ -31375,6 +31376,11 @@
         "tvl": true,
         "yields": false
     },
+    "5773": {
+        "name": "aarna-protocol",
+        "tvl": true,
+        "yields": false
+    },
     "5774": {
         "name": "magma",
         "tvl": true,
@@ -31382,6 +31388,16 @@
     },
     "5775": {
         "name": "infrared-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5776": {
+        "name": "dopin-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5777": {
+        "name": "sosovalue-basis",
         "tvl": true,
         "yields": false
     },
