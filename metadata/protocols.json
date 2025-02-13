@@ -3704,7 +3704,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -22823,8 +22822,7 @@
     "4170": {
         "name": "deltafi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4171": {
         "name": "poseidollar",
