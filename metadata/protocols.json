@@ -1476,7 +1476,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "339": {
         "name": "lien",
@@ -7317,8 +7318,7 @@
     "1393": {
         "name": "basis-markets",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1394": {
         "name": "mymine",
