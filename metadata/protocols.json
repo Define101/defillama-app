@@ -4186,8 +4186,7 @@
     "814": {
         "name": "loop-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "815": {
         "name": "pureswap",
@@ -4469,8 +4468,7 @@
     "865": {
         "name": "seeder-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "866": {
         "name": "reverse",
@@ -6385,7 +6383,8 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
@@ -7564,8 +7563,7 @@
     "1438": {
         "name": "treehouse-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1439": {
         "name": "the-don-finance",
@@ -7637,8 +7635,7 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1451": {
         "raises": true
@@ -11571,8 +11568,7 @@
     "2157": {
         "name": "green-planet",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2158": {
         "name": "blue-planet",
@@ -16733,8 +16729,7 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3083": {
         "name": "penpie",
@@ -17375,6 +17370,7 @@
         "name": "flowx-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3197": {
@@ -25018,7 +25014,8 @@
     "4582": {
         "name": "flowx-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4583": {
         "name": "keller-finance-v3",
@@ -26306,6 +26303,7 @@
         "name": "flowx-aggregator",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "aggregator": true
     },
     "4826": {
@@ -32610,6 +32608,7 @@
         "name": "flowx-finance",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "aggregator": true
     },
