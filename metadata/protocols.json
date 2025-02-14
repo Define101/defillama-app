@@ -9317,8 +9317,7 @@
     "1747": {
         "name": "game-theory",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1748": {
         "name": "murica",
@@ -31543,6 +31542,16 @@
     },
     "5785": {
         "name": "bitfi-basis",
+        "tvl": true,
+        "yields": false
+    },
+    "5786": {
+        "name": "doppler-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5787": {
+        "name": "meta-pool-stip",
         "tvl": true,
         "yields": false
     },
