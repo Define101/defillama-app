@@ -2788,7 +2788,8 @@
     "550": {
         "name": "freeriver",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "551": {
         "name": "solarbeam",
@@ -9683,7 +9684,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -32155,6 +32157,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
