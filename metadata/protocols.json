@@ -1825,8 +1825,7 @@
     "393": {
         "name": "apy-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "394": {
         "name": "reaper-farm",
@@ -4199,7 +4198,8 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "818": {
         "name": "cashcow-protocol",
@@ -11306,7 +11306,8 @@
     "2114": {
         "name": "nudes",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2115": {
         "name": "flashstake",
