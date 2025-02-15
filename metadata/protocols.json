@@ -2220,7 +2220,8 @@
     "454": {
         "name": "back-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "455": {
         "name": "zoocoin",
@@ -9947,6 +9948,7 @@
         "name": "auraswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -17061,7 +17063,6 @@
         "name": "pearl-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -25575,7 +25576,6 @@
         "name": "pearl-v2",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "4669": {
@@ -29094,7 +29094,6 @@
         "name": "pearl-v1.5",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "5309": {
@@ -29792,7 +29791,7 @@
     },
     "5437": {
         "name": "taraswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -31508,7 +31507,7 @@
     },
     "5776": {
         "name": "dopin-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5777": {
@@ -31584,6 +31583,16 @@
     },
     "5792": {
         "name": "nome-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5793": {
+        "name": "unleash-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5794": {
+        "name": "azex",
         "tvl": true,
         "yields": false
     },
@@ -34042,7 +34051,6 @@
         "name": "pearlfi",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
