@@ -28231,7 +28231,8 @@
         "yields": false,
         "hacks": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5175": {
         "name": "hedgehog-markets",
