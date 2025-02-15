@@ -9647,8 +9647,7 @@
     "1816": {
         "name": "ruby-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1817": {
         "name": "jupiter-swap",
@@ -11765,7 +11764,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -14236,14 +14236,12 @@
     "2639": {
         "name": "ruby.exchange-yield",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2640": {
         "name": "ruby.exchange-stable",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2641": {
         "name": "fulcrom-perps",
@@ -20392,7 +20390,8 @@
     "3729": {
         "name": "b2b",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3730": {
         "name": "hi.market",
@@ -34184,8 +34183,7 @@
     "parent#ruby.exchange": {
         "name": "ruby.exchange",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#sablier-finance": {
         "name": "sablier",
@@ -35188,6 +35186,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
