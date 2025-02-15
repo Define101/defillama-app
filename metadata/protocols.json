@@ -8553,7 +8553,6 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "raises": true,
         "emissions": true
     },
@@ -10229,7 +10228,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
