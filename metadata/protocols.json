@@ -24061,7 +24061,8 @@
     "4402": {
         "name": "savmdex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4403": {
         "name": "hatom-tao-bridge",
