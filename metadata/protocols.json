@@ -6005,7 +6005,8 @@
     "1146": {
         "name": "cyberfantasyfembots",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1147": {
         "name": "emerald-swap",
@@ -29658,7 +29659,7 @@
     },
     "5437": {
         "name": "taraswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -31373,7 +31374,7 @@
     },
     "5776": {
         "name": "dopin-protocol",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5777": {
