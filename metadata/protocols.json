@@ -16673,7 +16673,8 @@
     "3072": {
         "name": "dubble-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3073": {
         "name": "predy-v2",
