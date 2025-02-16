@@ -3053,7 +3053,6 @@
         "name": "flux-protocol",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "597": {
@@ -30588,7 +30587,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5617": {
