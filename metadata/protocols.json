@@ -8376,8 +8376,7 @@
     "1588": {
         "name": "diamond-coin",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1589": {
         "name": "puzzle-swap",
@@ -11472,6 +11471,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14115,7 +14115,8 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2619": {
         "name": "metalx-dex",
