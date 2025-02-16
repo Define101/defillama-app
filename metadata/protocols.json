@@ -4196,7 +4196,8 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "818": {
         "name": "cashcow-protocol",
@@ -4645,8 +4646,7 @@
     "897": {
         "name": "mesher",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "898": {
         "name": "beglobal-finance",
@@ -5333,7 +5333,8 @@
     "1026": {
         "name": "starterra",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1027": {
         "name": "xmas-past",
@@ -9547,6 +9548,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11469,7 +11471,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14113,8 +14114,7 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -14871,7 +14871,8 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2752": {
         "name": "onchain-trade",
@@ -33887,9 +33888,6 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
-    },
-    "parent#paraspace": {
-        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
