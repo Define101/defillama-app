@@ -2394,8 +2394,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -30598,7 +30597,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5617": {
@@ -35228,7 +35227,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
