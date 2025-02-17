@@ -14644,7 +14644,8 @@
         "name": "void",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "2712": {
         "name": "prepo",
@@ -22677,7 +22678,8 @@
     "4147": {
         "name": "0xscans",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4148": {
         "name": "meteora-dlmm",
