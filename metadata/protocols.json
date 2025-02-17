@@ -6641,8 +6641,7 @@
     "1266": {
         "name": "fees.wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1267": {
         "name": "the-open-dao-sos",
@@ -8718,8 +8717,7 @@
     "1647": {
         "name": "waterfall-defi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1648": {
         "name": "cgx-finance",
@@ -10120,8 +10118,7 @@
     "1898": {
         "name": "waterfall-wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1899": {
         "name": "taiga-karura",
@@ -17500,8 +17497,7 @@
     "3222": {
         "name": "tenx",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3223": {
         "name": "tendie-swap",
@@ -19503,8 +19499,7 @@
     "3565": {
         "name": "ball-exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3566": {
         "name": "friend3",
@@ -31508,12 +31503,14 @@
     "5800": {
         "name": "peppercoin",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5801": {
         "name": "cadabra-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
