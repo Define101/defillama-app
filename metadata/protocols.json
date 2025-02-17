@@ -3613,7 +3613,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -5182,7 +5183,8 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "raises": true
+        "raises": true,
+        "activeUsers": true
     },
     "996": {
         "name": "ocp-finance",
@@ -11471,6 +11473,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -18153,7 +18156,7 @@
     },
     "3331": {
         "name": "tetu-pawnshop",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -31460,7 +31463,7 @@
     },
     "5792": {
         "name": "nome-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5793": {
@@ -31483,6 +31486,32 @@
     },
     "5796": {
         "name": "lazy-summer-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5797": {
+        "name": "knightrade",
+        "tvl": true,
+        "yields": false
+    },
+    "5798": {
+        "name": "beradrome",
+        "tvl": true,
+        "yields": false,
+        "treasury": true
+    },
+    "5799": {
+        "name": "liquidity-house",
+        "tvl": true,
+        "yields": false
+    },
+    "5800": {
+        "name": "peppercoin",
+        "tvl": false,
+        "yields": false
+    },
+    "5801": {
+        "name": "cadabra-finance",
         "tvl": true,
         "yields": false
     },
