@@ -8502,8 +8502,7 @@
     "1600": {
         "name": "greenhouse",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1601": {
         "name": "wingriders",
