@@ -2102,8 +2102,7 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -2429,7 +2428,6 @@
         "name": "moola-market",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -6830,8 +6828,7 @@
         "name": "iron-bank",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "1304": {
         "name": "buffer-finance",
@@ -7070,8 +7067,7 @@
     "1349": {
         "name": "degen-haus",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1350": {
         "name": "treasure",
@@ -9715,7 +9711,6 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1829": {
@@ -16014,6 +16009,7 @@
         "name": "holdstation-defutures",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -29964,6 +29960,7 @@
         "name": "holdstation-swap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33004,6 +33001,7 @@
         "name": "holdstation",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
