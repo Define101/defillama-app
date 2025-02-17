@@ -31478,7 +31478,9 @@
     "5795": {
         "name": "pulsex-stableswap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5796": {
         "name": "lazy-summer-protocol",
