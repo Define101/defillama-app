@@ -5620,8 +5620,7 @@
     "1076": {
         "name": "arbicheems",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1077": {
         "name": "bring.finance",
@@ -5932,7 +5931,8 @@
     "1132": {
         "name": "genesys",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1133": {
         "name": "ice-colony",
@@ -6975,7 +6975,8 @@
         "name": "dna-dollar",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "1333": {
         "name": "oceanus",
@@ -10691,7 +10692,7 @@
     },
     "2005": {
         "name": "exinpool",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2006": {
@@ -15443,7 +15444,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
