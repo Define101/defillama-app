@@ -6783,6 +6783,7 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true,
         "activeUsers": true
     },
