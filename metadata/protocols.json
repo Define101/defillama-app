@@ -5794,6 +5794,7 @@
         "name": "ara-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "1100": {
@@ -19939,7 +19940,8 @@
     "3625": {
         "name": "nano-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3626": {
         "name": "spacefi-scroll",
