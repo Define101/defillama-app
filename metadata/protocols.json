@@ -11681,7 +11681,6 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "2178": {
@@ -14512,7 +14511,8 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2688": {
         "name": "palma-swap",
