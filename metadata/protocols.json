@@ -1036,7 +1036,8 @@
     "267": {
         "name": "s-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "269": {
         "name": "yfii",
@@ -2877,8 +2878,7 @@
     "563": {
         "name": "timewarp",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "564": {
         "name": "fabric",
@@ -15084,7 +15084,6 @@
         "name": "auragi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -15311,7 +15310,6 @@
         "tvl": true,
         "yields": false,
         "forks": true,
-        "liquidity": true,
         "emissions": true
     },
     "2818": {
@@ -31708,7 +31706,9 @@
     "5813": {
         "name": "desk-perps",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5814": {
         "name": "pico-staked-sol",
