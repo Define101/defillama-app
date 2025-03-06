@@ -1454,8 +1454,7 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "336": {
         "name": "sifchain",
@@ -3360,6 +3359,7 @@
         "name": "padswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "645": {
@@ -11365,7 +11365,6 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "2116": {
@@ -30234,7 +30233,9 @@
     "5526": {
         "name": "rings",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5527": {
         "name": "dont-fomo",
@@ -31994,6 +31995,11 @@
         "tvl": true,
         "yields": false,
         "liquidity": true
+    },
+    "5866": {
+        "name": "apollo-zbtc",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
