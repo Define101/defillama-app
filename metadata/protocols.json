@@ -9547,6 +9547,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14659,7 +14660,8 @@
     "2716": {
         "name": "kokomo-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2717": {
         "name": "dexioprotocol",
@@ -14851,7 +14853,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -22284,7 +22287,7 @@
         "perps": true
     },
     "4088": {
-        "name": "puffer-finance",
+        "name": "puffer-stake",
         "tvl": true,
         "yields": false,
         "raises": true
@@ -31878,6 +31881,26 @@
         "tvl": true,
         "yields": false
     },
+    "5867": {
+        "name": "puffer-vaults",
+        "tvl": true,
+        "yields": false
+    },
+    "5868": {
+        "name": "puffer-unifi-avs",
+        "tvl": true,
+        "yields": false
+    },
+    "5869": {
+        "name": "puffer-unifi",
+        "tvl": true,
+        "yields": false
+    },
+    "5870": {
+        "name": "beratrax",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34533,6 +34556,12 @@
         "tvl": true,
         "governance": true,
         "liquidity": true
+    },
+    "parent#puffer-finance": {
+        "name": "puffer-finance",
+        "yields": false,
+        "tvl": true,
+        "governance": true
     },
     "parent#pulsex": {
         "name": "pulsex",
