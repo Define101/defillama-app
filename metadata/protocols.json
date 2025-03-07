@@ -4627,8 +4627,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "aggregator": true,
-        "emissions": true
+        "aggregator": true
     },
     "895": {
         "name": "blackpool",
@@ -17060,8 +17059,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true,
-        "emissions": true
+        "nfts": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -31877,6 +31875,7 @@
         "name": "flarebank",
         "tvl": true,
         "yields": false,
+        "treasury": true,
         "liquidity": true
     },
     "5866": {
