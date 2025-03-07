@@ -200,7 +200,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "liquidity": true,
         "dexs": true
     },
     "134": {
@@ -2388,7 +2387,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -13643,7 +13643,8 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -24630,7 +24631,8 @@
     "4514": {
         "name": "snail-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4515": {
         "name": "glowswap",
@@ -31380,6 +31382,7 @@
         "name": "infrared-finance",
         "tvl": true,
         "yields": false,
+        "raises": true,
         "fees": true,
         "revenue": true
     },
