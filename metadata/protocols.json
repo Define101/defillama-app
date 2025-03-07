@@ -2949,7 +2949,8 @@
         "name": "unore",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "577": {
         "name": "allbridge-classic",
@@ -28169,7 +28170,8 @@
     "5146": {
         "name": "crosscurve-(by-eywa)",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "5147": {
         "name": "electroswap-v2",
@@ -32029,6 +32031,9 @@
         "name": "beratrax",
         "tvl": true,
         "yields": false
+    },
+    "5872": {
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
