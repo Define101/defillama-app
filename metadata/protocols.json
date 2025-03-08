@@ -7722,7 +7722,8 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1470": {
         "name": "nereus-finance",
@@ -8195,8 +8196,7 @@
     "1558": {
         "name": "gogocoin",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1559": {
         "name": "kdlaunch",
@@ -8770,8 +8770,7 @@
     "1659": {
         "name": "sirius-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1660": {
         "name": "swappi",
