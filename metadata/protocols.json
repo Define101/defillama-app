@@ -2870,8 +2870,7 @@
         "name": "macaronswap",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "567": {
         "name": "newland",
@@ -11457,6 +11456,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
