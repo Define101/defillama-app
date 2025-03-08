@@ -421,8 +421,7 @@
     "168": {
         "name": "dev-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "169": {
         "name": "basis-cash",
@@ -1778,7 +1777,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true
@@ -2630,8 +2628,7 @@
     "521": {
         "name": "pizza",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "522": {
         "name": "volta-club",
@@ -13740,7 +13737,6 @@
         "name": "megaton-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true,
         "dexs": true
     },
@@ -20890,8 +20886,7 @@
     "3811": {
         "name": "stellaris-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3812": {
         "name": "coupon-finance",
