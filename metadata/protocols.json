@@ -1263,7 +1263,7 @@
     "306": {
         "name": "quickswap-dex",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true,
@@ -3603,8 +3603,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -9541,7 +9540,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12833,7 +12831,6 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -34640,7 +34637,7 @@
     },
     "parent#quickswap": {
         "name": "quickswap",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "governance": true,
         "liquidity": true,
