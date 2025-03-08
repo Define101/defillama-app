@@ -13372,7 +13372,8 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -15274,8 +15275,7 @@
     "2830": {
         "name": "brokkr-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2831": {
         "name": "cortexdao",
@@ -19079,8 +19079,7 @@
     "3495": {
         "name": "broswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3496": {
         "name": "esper-finance",
