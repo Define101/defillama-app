@@ -3036,7 +3036,8 @@
         "name": "convergence",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -14836,7 +14837,8 @@
         "name": "lfgswap-arbitrum",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2752": {
         "name": "onchain-trade",
