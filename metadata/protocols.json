@@ -3848,8 +3848,7 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "738": {
         "name": "defi-halal",
@@ -5056,8 +5055,7 @@
     "974": {
         "name": "taichi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "975": {
         "name": "omicron",
@@ -5079,8 +5077,7 @@
     "978": {
         "name": "chickenswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "979": {
         "name": "partyswap",
@@ -13365,8 +13362,7 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2498": {
         "name": "umee",
@@ -13621,8 +13617,7 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -14486,8 +14481,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2688": {
         "name": "palma-swap",
@@ -34541,6 +34535,7 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
