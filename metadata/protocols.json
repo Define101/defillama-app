@@ -1373,7 +1373,6 @@
         "name": "unicly",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "325": {
@@ -18586,7 +18585,8 @@
     "3411": {
         "name": "pixelswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3412": {
         "name": "denet-file-token",
