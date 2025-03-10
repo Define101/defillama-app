@@ -399,7 +399,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "hacks": true
     },
     "166": {
@@ -2379,8 +2378,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -9526,6 +9524,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18641,7 +18640,7 @@
     "3422": {
         "name": "orange-finance",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "hacks": true
     },
     "3423": {
@@ -32438,6 +32437,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#bank-of-cronos": {
@@ -34431,9 +34431,6 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
-    },
-    "parent#paraspace": {
-        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
