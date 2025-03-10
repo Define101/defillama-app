@@ -64,8 +64,7 @@
         "raises": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "116": {
         "name": "balancer-v1",
@@ -7552,7 +7551,8 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "1434": {
         "name": "newspace-finance",
@@ -32068,6 +32068,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#11419": {
+        "fees": true
+    },
     "chain#1274": {
         "fees": true,
         "revenue": true
@@ -32237,7 +32240,6 @@
         "revenue": true
     },
     "chain#820": {
-        "fees": true,
         "revenue": true
     },
     "chain#8453": {
@@ -32555,7 +32557,8 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#bancor": {
         "name": "bancor",
@@ -32867,7 +32870,8 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
@@ -33125,7 +33129,8 @@
         "treasury": true,
         "liquidity": true,
         "dexs": true,
-        "aggregator": true
+        "aggregator": true,
+        "emissions": true
     },
     "parent#dojoswap": {
         "name": "dojoswap",
@@ -35381,8 +35386,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "parent#synthswap": {
         "name": "synthswap",
