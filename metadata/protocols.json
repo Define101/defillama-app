@@ -9641,8 +9641,7 @@
     "1809": {
         "name": "penrose",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1810": {
         "name": "zinax-dao",
@@ -30098,12 +30097,14 @@
     "5504": {
         "name": "metropolis-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5505": {
         "name": "metropolis-dlmm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5506": {
         "name": "ethena-usdtb",
@@ -32048,6 +32049,22 @@
         "tvl": true,
         "yields": false
     },
+    "5882": {
+        "name": "csigma-finance",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
+    },
+    "5883": {
+        "name": "growihf",
+        "tvl": true,
+        "yields": false
+    },
+    "5884": {
+        "name": "apebank",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32069,7 +32086,8 @@
         "revenue": true
     },
     "chain#11419": {
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#1274": {
         "fees": true,
@@ -32237,9 +32255,6 @@
     },
     "chain#81457": {
         "fees": true,
-        "revenue": true
-    },
-    "chain#820": {
         "revenue": true
     },
     "chain#8453": {
@@ -34249,7 +34264,8 @@
     "parent#metropolis-exchange": {
         "name": "metropolis-exchange",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "fees": true
     },
     "parent#mimo": {
         "name": "mimo",
